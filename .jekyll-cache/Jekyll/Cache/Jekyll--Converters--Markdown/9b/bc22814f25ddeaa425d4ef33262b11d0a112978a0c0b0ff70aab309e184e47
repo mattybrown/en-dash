@@ -1,0 +1,42 @@
+I"U<h3 id="kiwi-scientists-are-leading-the-charge-on-a-crowd-sourced-earthquake-early-warning-system">Kiwi scientists are leading the charge on a crowd-sourced earthquake early warning system.</h3>
+
+<p>Based on the tiny Raspberry Pi computer, the sensor network is not only cheap but powerful with the researchers suggesting that soon, an earthquake early warning system could sit on your bookshelf.</p>
+
+<p>The team of scientists, spearheaded by Massey University Joint Centre for Disaster Research lead researcher Dr Raj Prasanna, hope their novel open-source idea will attract supporters from across the globe.</p>
+
+<p>“This project has become much bigger than what we were originally anticipated, and it has created several other aligned projects, including school outreach and internships,” Dr Prasanna says.</p>
+
+<p>Co-funded by the Earthquake Commission (EQC) and Massey University, the project seeks to use citizen scientists using Raspberry Pi-based seismic sensors to develop a more robust, and much cheaper, earthquake early warning (EEW) system.</p>
+
+<p>Details published by the team last week on the Swiss-based information and communication technology journal Infometrics compared their distributed earthquake early warning (EEW) system to the United State’s ShakeAlert system that was 15-years in the making.</p>
+
+<p>Currently deployed in only three states: California, Oregon, and Washington, the deployment cost nearly $100 million USD and requires nearly $39 million USD annually to operate.</p>
+
+<p>The journal paper says their low-cost solution, taking into account technological advancements, is a viable alternative.</p>
+
+<p>“Developing a simple but robust network of sensors where all the detection algorithms are working at the sensor-node itself is a big step forward in helping us towards developing innovative early warning systems,” says Dr Prasanna.</p>
+
+<p>He says the research team comprises seismologists, computer and telecommunication engineers, as well as other subject matter experts from New Zealand and overseas, who will provide open access to all the source codes they have developed and hope that their domestic and international collaborators and supporters will enable them to advance their project at a faster pace.</p>
+
+<p>EQC’s Research Manager, Dr Natalie Balfour, says the results of this research will give a broad picture of the social, as well as the technical aspects of a community-networked earthquake warning system.</p>
+
+<p>“The findings and outcomes will contribute to EQC’s mission of reducing the impact on people and property and building resilience to natural hazards.”</p>
+
+<p>Last year, the research team worked with local communities using low-cost seismometers to identify appropriate locations to test the sensor network architecture.</p>
+
+<p>Despite being hampered by COVID-19 restrictions, the small number of seismometers installed in Wellington and the Wairarapa area provided the scientists with an opportunity to develop effective new earthquake early warning architecture to analyse and validate its performance.</p>
+
+<p>“Over the last two years, we have been working with experts in all areas, from researchers in a variety of fields to sensor manufacturers,” Dr Prasanna says.</p>
+
+<p>“Experts in New Zealand and all over the world have been so supportive and shared their findings, so this project has created a new community of practice consisting of a strong network of people who have similar interests on the same problem focussing on earthquake early warning systems. This was not what we expected and is hugely exciting.”</p>
+
+<p>The team has successfully applied for more funding to continue their research and will soon be installing 20 more seismometers across the lower North Island to expand their experiments and finetune their data.</p>
+
+<p>Dr Prasanna says that his team is looking forward to strengthening and expanding engagements with other potential collaborators in New Zealand and internationally, including researchers and sensor manufacturers.</p>
+
+<p>Dr Balfour adds that the research is unique because it explores innovative ways to solve some of the technical challenges of EEW systems and also engages with the community to get them involved in the system.</p>
+
+<p>“This study contributes to community resilience by directly involving them in the project and in the process helps improve understanding about living with natural hazards and what to do when an earthquake occurs,” she says.</p>
+
+<p>Their paper, A Novel Approach to Implementing a Low-Cost Earthquake Early Warning System with Node-Level Detection and Alert Generation, is available free online.</p>
+:ET
