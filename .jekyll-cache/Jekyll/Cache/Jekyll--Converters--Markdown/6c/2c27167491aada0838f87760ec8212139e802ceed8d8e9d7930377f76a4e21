@@ -1,16 +1,266 @@
-I"�P<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-        <h1 class="font-weight-bold title h6 text-uppercase mb-4">Tags</h1>
-            
-         
-        <h4 class="font-weight-bold spanborder text-capitalize" id="featured"><span>featured</span></h4>
-            
+I"
+n<div class="container">
+
+
+
+
+
+<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+<div class="row remove-site-content-margin">
+
+    <!-- latest post -->
+    
+    <div class="col-md-6">
+    <div class="card border-0 mb-4 box-shadow">
+    <a href="/pav-winners-awarded-slice/">
+    <div class="topfirstimage" style="background-image: url( /assets/images/home.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
+    </a>
+    <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
+    <h2 class="h4 font-weight-bold">
+    <a class="text-dark" href="/pav-winners-awarded-slice/">Pav winners awarded slices in online ceremony</a>
+    </h2>
+    <p class="excerpt">
+        Aotearoa’s top game devs were recognised in a deliciously desert themed night, and there were plenty of slices of pav to go around.
+    </p>
+    <div>
+        <small class="d-block text-muted">
+            In <span class="catlist">
+                
+                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#development">development</a><span class="sep">, </span>
+                
+                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#awards">awards</a><span class="sep">, </span>
+                
+                </span>
+        </small>
+        <small class="text-muted">
+            Jul 19, 2022
+        </small>
+    </div>
+    </div>
+    </div>
+    </div>
+
+    <div class="col-md-6">
+
+        <!-- second latest post --><div class="mb-3 d-flex align-items-center">
+                
+                <div class="col-md-4">
+                <a href="/novel-vr-treatment-overcomes-phobias/">
+                 <img class="w-100" src="http://localhost:4000/assets/images/stella-jacob-4lSz1Jv0Vkc-unsplash.jpg" alt="Novel VR treatment overcomes phobias" />
+                </a>
+                </div>
+                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/novel-vr-treatment-overcomes-phobias/">Novel VR treatment overcomes phobias</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#tech">Tech</a><span class="sep">, </span>
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#health">Health</a><span class="sep">, </span>
+                        
+                        </span>
+                    </small>
+                    <small class="text-muted">
+                        Jul 16, 2022
+                    </small>
+                </div>
+            </div>
+
+        <!-- third latest post --><div class="mb-3 d-flex align-items-center">
+                
+                <div class="col-md-4">
+                <a href="/kiwi-scientists-crowd-sourced-quake-detector-could-give-an-early-warning-when-disaster-strikes/">
+                 <img class="w-100" src="/assets/images/jose-antonio-gallego-vazquez-cf6ZRus8Icw-unsplash.jpg" alt="Kiwi scientists' crowd-sourced quake detector could give an early warning when disaster strikes" />
+                </a>
+                </div>
+                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/kiwi-scientists-crowd-sourced-quake-detector-could-give-an-early-warning-when-disaster-strikes/">Kiwi scientists' crowd-sourced quake detector could give an early warning when disaster strikes</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#tech">Tech</a><span class="sep">, </span>
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                        
+                        </span>
+                    </small>
+                    <small class="text-muted">
+                        Mar 16, 2022
+                    </small>
+                </div>
+            </div>
+
+        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">
+                
+                <div class="col-md-4">
+                <a href="/the-search-for-aotearoas-next-top-game-startup/">
+                <img class="w-100" src="/assets/images/kiwigamestarter.png" alt="The search for Aotearoa’s next top game start-up " />
+                </a>
+                </div>
+                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/the-search-for-aotearoas-next-top-game-startup/">The search for Aotearoa’s next top game start-up </a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#gaming">Gaming</a><span class="sep">, </span>
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                        
+                        </span>
+                    </small>
+                    <small class="text-muted">
+                        Mar 12, 2022
+                    </small>
+                </div>
+            </div>
+
+    </div>
+
+</div>
+
+<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+
+
+
+
+
+
+
+
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-dark text-light position-relative">
+    <div class="pl-4 pr-0 h-100 tofront">
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h1 class="mb-3">The search for Aotearoa’s next top game start-up </h1>
+                <p class="mb-3 lead">
+                    A prestigious $25,000 start-up game development competition is returning in 2022.
+                </p>
+                <a href="/the-search-for-aotearoas-next-top-game-startup/" class="btn btn-light">Read More</a>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/kiwigamestarter.png);">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-dark text-light position-relative">
+    <div class="pl-4 pr-0 h-100 tofront">
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h1 class="mb-3">Could we reinvent the charm of old cities</h1>
+                <p class="mb-3 lead">
+                    Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as ...
+                </p>
+                <a href="/charm-old-cities/" class="btn btn-light">Read More</a>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/home.jpg);">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+ <!--endif page url is / -->
+
+
+
+<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+
+<div class="row mt-3">
+
+    <div class="col-md-8 main-loop">
+
+        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+
+
         
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/pav-winners-awarded-slice/">Pav winners awarded slices in online ceremony</a>
+	</h2>
+	<p class="excerpt">
+	   Aotearoa’s top game devs were recognised in a deliciously desert themed night, and there were plenty of slices of pav to go around.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#development">development</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#awards">awards</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 19, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/pav-winners-awarded-slice/">
+	<img class="w-100" src="/assets/images/home.jpg" alt="Pav winners awarded slices in online ceremony" />
+	</a>
+	</div>
+
+</div>
+
         
-        
-          
-         
+
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
@@ -42,12 +292,9 @@
 	</div>
 
 </div>
-          
+
         
-        
-        
-          
-         
+
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
@@ -77,12 +324,9 @@
 	</div>
 
 </div>
-          
+
         
-        
-        
-          
-         
+
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
@@ -112,12 +356,9 @@
 	</div>
 
 </div>
-          
+
         
-        
-        
-          
-         
+
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
@@ -147,152 +388,13 @@
 	</div>
 
 </div>
-          
+
         
-        
-        
-          
-         
+
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/first-mass-produced/">The first mass-produced book to deviate from a rectilinear format</a>
-	</h2>
-	<p class="excerpt">
-	   The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the prot...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Feb 02, 2019
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/first-mass-produced/">
-	<img class="w-100" src="/assets/images/17.jpg" alt="The first mass-produced book to deviate from a rectilinear format" />
-	</a>
-	</div>
-
-</div>
-          
-        
-        
-        
-          
-         
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/we-all-wait-for-summer/">We all wait for summer</a>
-	</h2>
-	<p class="excerpt">
-	   This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Mos...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Jan 28, 2019
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/we-all-wait-for-summer/">
-	<img class="w-100" src="/assets/images/1.jpg" alt="We all wait for summer" />
-	</a>
-	</div>
-
-</div>
-          
-        
-        
-        
-          
-         
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/powerful-things-markdown-editor/">Powerful things you can do with the Markdown editor</a>
-	</h2>
-	<p class="excerpt">
-	   There are lots of powerful things you can do with the Markdown editor
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Jan 24, 2019
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/powerful-things-markdown-editor/">
-	<img class="w-100" src="/assets/images/4.jpg" alt="Powerful things you can do with the Markdown editor" />
-	</a>
-	</div>
-
-</div>
-          
-        
-        
-        
-          
-         
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/never-stopped-worrying-never-loved-bomb/">Never stopped worrying or loving the bomb</a>
-	</h2>
-	<p class="excerpt">
-	   I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the ...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Jan 22, 2019
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/never-stopped-worrying-never-loved-bomb/">
-	<img class="w-100" src="/assets/images/14.jpg" alt="Never stopped worrying or loving the bomb" />
-	</a>
-	</div>
-
-</div>
-          
-        
-        
-        
-          
-         
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/markup-example/">Markdown Example</a>
+	<a class="text-dark" href="/welcome-to-jekyll/">Welcome to Jekyll!</a>
 	</h2>
 	<p class="excerpt">
 	   You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa...
@@ -302,36 +404,23 @@
 		
 		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
-		
 		</span>
 	</small>
 	<small class="text-muted">
-		Jan 19, 2019
+		Feb 04, 2019
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/markup-example/">
-	<img class="w-100" src="/assets/images/6.jpg" alt="Markdown Example" />
+	<a href="/welcome-to-jekyll/">
+	<img class="w-100" src="/assets/images/giphy-test.gif" alt="Welcome to Jekyll!" />
 	</a>
 	</div>
 
 </div>
-          
-        
-        
-        
+
         
 
-         
-        <h4 class="font-weight-bold spanborder text-capitalize" id="summer"><span>summer</span></h4>
-            
-        
-        
-        
-          
-         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
@@ -361,63 +450,155 @@
 	</div>
 
 </div>
-          
-        
-        
-        
+
         
 
-         
-        <h4 class="font-weight-bold spanborder text-capitalize" id="sticky"><span>sticky</span></h4>
-            
-        
-        
-        
-          
-         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/the-search-for-aotearoas-next-top-game-startup/">The search for Aotearoa’s next top game start-up </a>
+	<a class="text-dark" href="/first-mass-produced/">The first mass-produced book to deviate from a rectilinear format</a>
 	</h2>
 	<p class="excerpt">
-	   A prestigious $25,000 start-up game development competition is returning in 2022.
+	   The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the prot...
 	</p>
 	<small class="d-block text-muted">
 		In <span class="catlist">
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#gaming">Gaming</a><span class="sep">, </span>
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
 		
 		</span>
 	</small>
 	<small class="text-muted">
-		Mar 12, 2022
+		Feb 02, 2019
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/the-search-for-aotearoas-next-top-game-startup/">
-	<img class="w-100" src="/assets/images/kiwigamestarter.png" alt="The search for Aotearoa’s next top game start-up " />
+	<a href="/first-mass-produced/">
+	<img class="w-100" src="/assets/images/17.jpg" alt="The first mass-produced book to deviate from a rectilinear format" />
 	</a>
 	</div>
 
 </div>
-          
-        
-        
-        
-        
 
         
 
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/education/">Education must also train one for quick, resolute and effective thinking.</a>
+	</h2>
+	<p class="excerpt">
+	   There are lots of powerful things you can do with the Markdown editor
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 01, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/education/">
+	<img class="w-100" src="/assets/images/3.jpg" alt="Education must also train one for quick, resolute and effective thinking." />
+	</a>
+	</div>
+
+</div>
+
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/acumulated-experience/">Accumulated experience of social living</a>
+	</h2>
+	<p class="excerpt">
+	   The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 30, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/acumulated-experience/">
+	<img class="w-100" src="/assets/images/15.jpg" alt="Accumulated experience of social living" />
+	</a>
+	</div>
+
+</div>
+
+        
+
+        <div class="mt-5">
+         <!-- Pagination links -->
+            
+            <ul class="pagination">
+              
+                <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
+              
+
+              
+                
+                <li class="page-item disabled"><span class="webjeda page-link">1</span></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page2">2</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page3">3</a></li>
+                
+              
+
+              
+                <li class="page-item"><a class="page-link" href="/page2">Next &raquo;</a></li>
+              
+            </ul>
+            
         </div>
-        
-            <div class="col-md-4">
+
+    </div>
+
+    <div class="col-md-4">
         <div class="sticky-top sticky-top-offset">
     <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
     <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/pav-winners-awarded-slice/" class="text-dark">Pav winners awarded slices in online ceremony</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#development">development</a><span class="sep">, </span>
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#awards">awards</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
                         
             <li class="mb-4">
             <span>
@@ -571,9 +752,12 @@
             </li>                
            
     </ol>
-</div>     
+</div> 
     </div>
-        
-    </div>
+
+</div>
+
+
+
 </div>
 :ET

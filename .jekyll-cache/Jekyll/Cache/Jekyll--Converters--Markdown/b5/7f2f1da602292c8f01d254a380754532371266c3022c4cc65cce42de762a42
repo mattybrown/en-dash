@@ -1,4 +1,4 @@
-I"!<div class="container">
+I"%<div class="container">
 <div class="row justify-content-center">
     <div class="col-md-8">
         <div class="row align-items-center mb-5">
@@ -13,6 +13,36 @@
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by Matt Brown</span></h4>
             
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/pav-winners-awarded-slice/">Pav winners awarded slices in online ceremony</a>
+	</h2>
+	<p class="excerpt">
+	   Aotearoa’s top game devs were recognised in a deliciously desert themed night, and there were plenty of slices of pav to go around.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#development">development</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#awards">awards</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 19, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/pav-winners-awarded-slice/">
+	<img class="w-100" src="/assets/images/home.jpg" alt="Pav winners awarded slices in online ceremony" />
+	</a>
+	</div>
+
+</div>
             
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
